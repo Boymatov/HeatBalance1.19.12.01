@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatBalance", "HeatBalance\HeatBalance.csproj", "{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanseDLL", "BalanseDLL\BalanseDLL.csproj", "{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{EA887FAF-6993-443A-AE53-E82545E6DE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Debug|x86.ActiveCfg = Debug|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Debug|x86.Build.0 = Debug|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Release|Any CPU.ActiveCfg = Release|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Release|x86.ActiveCfg = Release|x86
+		{6A610B1F-E1BA-4EC4-B924-DDB73D46D642}.Release|x86.Build.0 = Release|x86
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1D38C4D9-D275-4224-8F3E-1BB4DFC8E62A}.Release|x86.ActiveCfg = Release|Any CPU
+		{EA887FAF-6993-443A-AE53-E82545E6DE52}.Debug|Any CPU.ActiveCfg = Debug
+		{EA887FAF-6993-443A-AE53-E82545E6DE52}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{EA887FAF-6993-443A-AE53-E82545E6DE52}.Debug|x86.ActiveCfg = Debug
+		{EA887FAF-6993-443A-AE53-E82545E6DE52}.Release|Any CPU.ActiveCfg = Release
+		{EA887FAF-6993-443A-AE53-E82545E6DE52}.Release|Mixed Platforms.ActiveCfg = Release
+		{EA887FAF-6993-443A-AE53-E82545E6DE52}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF5B35F8-FE1A-4C2B-AC2F-0808A49DE4C2}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = HeatBalance.vsmdi
+	EndGlobalSection
+EndGlobal
